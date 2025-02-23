@@ -1,0 +1,13 @@
+name = "Webdisplays Remastered "
+filename = "webdisplaysremastered-1.12.2-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4bc1166911323ab8817ae42929d98527d367e31f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4275737
+project-id = 664741

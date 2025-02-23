@@ -1,0 +1,13 @@
+name = "JEI Hider"
+filename = "JEIHider-1.1c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad5086e27ceb5b412587553b5aaa836c4aeccf81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2633243
+project-id = 247070

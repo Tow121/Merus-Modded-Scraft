@@ -1,0 +1,13 @@
+name = "DoublingTable"
+filename = "DoublingTable-3.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "39a7ab7aba72b0a912ea900fea3760690d0a206b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3180574
+project-id = 278304

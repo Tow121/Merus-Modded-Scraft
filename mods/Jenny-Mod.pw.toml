@@ -1,0 +1,7 @@
+name = "Jenny Mod"
+filename = "Fapcraft 1.12.2 v1.1.jar"
+
+[download]
+url = "https://fapcraft.org/files/Fapcraft%201.12.2%20v1.1.jar"
+hash-format = "sha256"
+hash = "0c5cfabb7d64aac865fd6753375ddd856bed12e1ff8f1e0e4164fa5ccc4925bf"

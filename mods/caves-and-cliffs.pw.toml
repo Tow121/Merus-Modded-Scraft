@@ -1,0 +1,13 @@
+name = "Caves and Cliffs Mod, 1.17 backport"
+filename = "CC(FG1.12.2) 1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c5951ae0df18fbcf1a07ce227947c438a204d30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3095803
+project-id = 411288

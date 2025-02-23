@@ -1,0 +1,13 @@
+name = "Double Doors"
+filename = "doubledoors_1.12.2-2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c4f69201e7f0b549e49aeece94c18e2645a6ce0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3520406
+project-id = 348831

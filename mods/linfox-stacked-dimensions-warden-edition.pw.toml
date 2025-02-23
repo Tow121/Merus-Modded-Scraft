@@ -1,0 +1,13 @@
+name = "Deeper in the Caves - RESTART (+ 1.12.2 Version)"
+filename = "deeperinthecaves3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ed16d474795217e14e1a87e8c72eb9d2b4785860"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5625169
+project-id = 446017
